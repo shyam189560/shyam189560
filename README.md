@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-  <img src="YOUR_PHOTO_LINK_HERE" width="170" style="border-radius: 50%;" alt="Shyam Sundar Pal"/>
+  <img src="https://github.com/shyam189560/shyam189560/blob/main/0ecebc58-a033-46ea-a968-12697e1baf9a.png" width="170" style="border-radius: 50%;" alt="Shyam Sundar Pal"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Shyam Sundar Pal</h1>
